@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Txt2RDFToolsGitHub</name>
+<<<<<<< HEAD
+	<name>Txt2RDFToolsGitHub3</name>
+=======
+	<name>Txt2RDFToolsGitHub2</name>
+>>>>>>> origin/ChangeToProject2
 	<comment></comment>
 	<projects>
 	</projects>
