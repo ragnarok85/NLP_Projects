@@ -40,8 +40,8 @@ public class Alchemy {
 
         //  System.out.println("Testing 1 - Send Http GET request");
         //  http.sendGet();
-        //String text = "Miles Davis was an american jazz musician";
-        String text = "The European Food Safety Authority (EFSA) is assigned the tasks of examining the data collected and publishing the Community Summary Report.";
+        String text = "Miles Davis was an american jazz musician";
+        //String text = "The European Food Safety Authority (EFSA) is assigned the tasks of examining the data collected and publishing the Community Summary Report.";
         http.sendPost(text);
 
     }
